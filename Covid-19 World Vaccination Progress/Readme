@@ -1,0 +1,3 @@
+Data Cleaning and EDA of Worldwide progress of Vaccines distribution, the most famous vaccines, Source Distribution, 
+amount of people vaccinated and increase in vaccination in countries. Finally using a LSTM model 
+(loss = MSE, optimizer = adam) to predict the state vaccination in any country in the next few days. (Kaggle)
