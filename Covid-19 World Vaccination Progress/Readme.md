@@ -7,7 +7,7 @@ amount of people vaccinated and increase in vaccination in countries. Finally us
 
 ## The data contains the following information:
 
-Markup: 
+ 
   * **Country**- this is the country for which the vaccination information is provided;
   * **Country ISO Code** - ISO code for the country;
   * **Date** - date for the data entry; for some of the dates we have only the daily vaccinations, for others, only the (cumulative) total;
