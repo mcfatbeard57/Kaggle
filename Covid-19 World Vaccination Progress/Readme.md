@@ -24,3 +24,6 @@ amount of people vaccinated and increase in vaccination in countries. Finally us
   * **Vaccines used in the country** - total number of vaccines used in the country (up to date);
   * **Source name** - source of the information (national authority, international organization, local organization etc.);
   * **Source website** - website of the source of information;
+
+## Correlation between features
+![corr1](readme-resources/correlation.png)<br/>
