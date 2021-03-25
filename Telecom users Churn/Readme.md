@@ -13,13 +13,13 @@
 - Splitting the dataset
 
 ## Model Used:
-- Logictic Regression
+- Logictic Regression<br/>
 ![Logictic Regression](readme-resources/Logistic Regreesion.png)<br/>
-- Decision Tree
+- Decision Tree<br/>
 ![Decision Tree](readme-resources/Decision Tree.png)<br/>
-- Random Forests
+- Random Forests<br/>
 ![Random Forests](readme-resources/Random Forests.png)<br/>
-- ANN
+- ANN<br/>
 ![ANN](readme-resources/ANN.png)<br/>
 
 
