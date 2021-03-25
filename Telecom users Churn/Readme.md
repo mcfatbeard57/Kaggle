@@ -14,11 +14,11 @@
 
 ## Model Used:
 - Logictic Regression<br/>
-![Logictic Regression](readme-resources/Logistic Regreesion.png)<br/>
+![Logictic Regression](readme-resources/LogisticRegreesion.png)<br/>
 - Decision Tree<br/>
-![Decision Tree](readme-resources/Decision Tree.png)<br/>
+![Decision Tree](readme-resources/DecisionTree.png)<br/>
 - Random Forests<br/>
-![Random Forests](readme-resources/Random Forests.png)<br/>
+![Random Forests](readme-resources/RandomForests.png)<br/>
 - ANN<br/>
 ![ANN](readme-resources/ANN.png)<br/>
 
