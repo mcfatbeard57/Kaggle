@@ -14,13 +14,13 @@
 
 ## Model Used:
 - Logictic Regression
-![corr1](readme-resources/correlation.png)<br/>
+![Logictic Regression](readme-resources/Logistic Regreesion.png)<br/>
 - Decision Tree
-![corr1](readme-resources/correlation.png)<br/>
+![Decision Tree](readme-resources/Decision Tree.png)<br/>
 - Random Forests
-![corr1](readme-resources/correlation.png)<br/>
+![Random Forests](readme-resources/Random Forests.png)<br/>
 - ANN
-![corr1](readme-resources/correlation.png)<br/>
+![ANN](readme-resources/ANN.png)<br/>
 
 
 #### We achieved around %80 accuracy with different models. If we do some feature engineering after the preprocess maybe we can increase the accuracy little bit more.
